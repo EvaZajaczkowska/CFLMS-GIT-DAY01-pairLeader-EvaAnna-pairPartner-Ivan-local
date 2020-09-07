@@ -1,1 +1,2 @@
 blankneue Änderung für einen mergekonfliktversuch im file 3
+das ist die Finalversion nach dem mergekonflikt
