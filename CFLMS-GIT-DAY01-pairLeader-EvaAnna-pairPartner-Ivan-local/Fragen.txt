@@ -7,4 +7,3 @@ What is Distributed VCS?
 What is Git?
 
 Why is the VCS important?
-
