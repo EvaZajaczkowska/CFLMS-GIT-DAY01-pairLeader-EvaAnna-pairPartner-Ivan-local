@@ -1,3 +1,10 @@
 What is Version Control System?
 
 What is Centralized VCS?
+
+What is Distributed VCS?
+
+What is Git?
+
+Why is the VCS important?
+
