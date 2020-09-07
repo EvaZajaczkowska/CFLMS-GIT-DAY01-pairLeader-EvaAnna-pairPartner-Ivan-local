@@ -1,3 +1,6 @@
 What is Version Control System?
 
 What is Centralized VCS?
+
+What is Distributed VCS?
+
